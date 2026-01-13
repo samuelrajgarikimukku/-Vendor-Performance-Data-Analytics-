@@ -55,32 +55,33 @@ All referenced images are part of the analysis and should be placed in the repos
 
 **Vendor Contribution Distribution**\
 The chart below visualizes total purchase contribution by vendor, highlighting the concentration in the top 10 vendors.
-<img width="1492" height="490" alt="image" src="https://github.com/user-attachments/assets/6d04188d-a32e-4db6-a812-11f5afbc4879" />
+<img width="1061" height="667" alt="image" src="https://github.com/user-attachments/assets/c03a9886-f958-464f-b26a-2c8dafb34cca" />
 This image demonstrates that a small vendor set drives most of the purchase volume, creating dependency risk.
 
 **Brand Margin vs Volume Behavior**\
 The plot below shows brand-level margin against volume, identifying brands with low volume but high profitability potential.
-<img width="1181" height="590" alt="image" src="https://github.com/user-attachments/assets/00f9caff-3fb3-4867-b4e1-38abdd7d2497" />
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/163df5a0-cde4-4728-ae75-ca3b6874aa44" />
 Brands in the top-left region represent targets for promotional intervention or pricing adjustments.
 
 **Bulk Purchasing Unit Cost Comparison**\
 This visualization compares unit purchase cost for large versus small order quantities.
-<img width="1061" height="667" alt="image" src="https://github.com/user-attachments/assets/68f3846d-0806-4e24-9b9b-ceacd2863df2" />
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/6eb7bc96-c8db-4871-89d1-e8855cf8d3bb" />
 The unit cost reduction supports procurement strategies that leverage quantity-driven discounts.
 
 **Inventory Turnover and Unsold Capital**\
 The chart below illustrates inventory turnover behavior and capital locked in slow-moving stock.
-![Unsold Inventory Capital](unsold_inventory_capital.png)
+<img width="437" height="321" alt="image" src="https://github.com/user-attachments/assets/62e24bb0-20e0-44ba-806c-14a5c85bb3b6" />
+
 This represents approximately $2.71M in working capital tied up in unsold stock.
 
 **Margin Distribution Across Vendor Segments**\
 This visualization shows statistical margin distribution for high-volume vs low-volume vendors.
-<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/3b77a82d-1c35-4b38-a594-eb5c6e07c669" />
+<img width="1492" height="490" alt="image" src="https://github.com/user-attachments/assets/6b3a127b-fa11-408b-84da-2b90f9616a42" />
 The lower distribution for high-volume vendors confirms volume-over-margin sales models.
 
 **Statistical Validation Summary**\
 A summary visualization or table shows margin confidence intervals and hypothesis test results.
-<img width="1496" height="990" alt="image" src="https://github.com/user-attachments/assets/a43078e6-d8cf-4d3f-b1b5-84b6a9176e3f" />
+<img width="482" height="332" alt="image" src="https://github.com/user-attachments/assets/46c6e7af-eb8e-4103-8761-d3b9ca536ffd" />
 
 This supports the finding that the vendor groups operate under distinct profitability models.
 
